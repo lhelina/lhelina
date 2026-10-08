@@ -1,9 +1,9 @@
-<h3 align="center">Hi 👋 I'm Helina</h3>
+<h3 align="center">Hi . I'm Helina</h3>
 <h4 align="center">Full Stack Web Developer</h4>
 
 <p align="center">
 I build clean and responsive web apps.
-Currently learning, building, and growing every day 🚀
+Currently learning, building, and growing every day 
 </p>
 
 <h3 align="left">Tech Stack:</h3>
@@ -32,19 +32,8 @@ Currently learning, building, and growing every day 🚀
 
 ---
 
-<h3>📊 GitHub Stats</h3>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helina&show_icons=true&locale=en&layout=compact" alt="helina" />
-</p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=helina&show_icons=true&locale=en" alt="helina" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helina&" alt="helina" />
-</p>
 
 <!--
 **lhelina/lhelina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
